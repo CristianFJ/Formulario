@@ -1,0 +1,27 @@
+<resources>
+    <string-array name="ciudades">
+        <item>Cali</item>
+        <item>Medellin</item>
+        <item>Cartagena</item>
+    </string-array>
+    <string name="app_name">Formulary</string>
+    <string name="tNombre"> Name:</string>
+    <string name="eNombre">type your name</string>
+    <string name="tPassword">Password:</string>
+    <string name="ePassword">*******</string>
+    <string name="tConfirmpass">Confirm password</string>
+    <string name="eCPassword">*******</string>
+    <string name="tEmail">Email</string>
+    <string name="eEmail">type your email</string>
+    <string name="Mujer">female</string>
+    <string name="Hombre">male</string>
+    <string name="S">Select date of birth :</string>
+    <string name="Aceptar">Accept</string>
+    <string name="L">Place of birth:</string>
+    <string name="aikido">Aikido</string>
+    <string name="natacion">Swim</string>
+    <string name="dibujar">Draw</string>
+    <string name="gimnasia">Gymnastics</string>
+
+
+</resources>
